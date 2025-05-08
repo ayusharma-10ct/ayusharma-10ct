@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My Name Is Ayush Sharma
 
 <!--
 **ayusharma-10ct/ayusharma-10ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
